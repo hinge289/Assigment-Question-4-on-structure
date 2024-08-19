@@ -1,0 +1,1 @@
+WAP to create class "car" with some member variables like "make," "model", "color", "price" and "year" with appropriate data type. accept 5 cars information and display it with proper format. Accept price range, color, and manufacturing year range from user and show all cars who fit in given search criteria.
